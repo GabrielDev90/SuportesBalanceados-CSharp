@@ -1,0 +1,15 @@
+C:\Users\arauj\source\repos\SuportesBalanceados\SuportesBalanceados\bin\Debug\net7.0\SuportesBalanceados.exe
+C:\Users\arauj\source\repos\SuportesBalanceados\SuportesBalanceados\bin\Debug\net7.0\SuportesBalanceados.deps.json
+C:\Users\arauj\source\repos\SuportesBalanceados\SuportesBalanceados\bin\Debug\net7.0\SuportesBalanceados.runtimeconfig.json
+C:\Users\arauj\source\repos\SuportesBalanceados\SuportesBalanceados\bin\Debug\net7.0\SuportesBalanceados.dll
+C:\Users\arauj\source\repos\SuportesBalanceados\SuportesBalanceados\bin\Debug\net7.0\SuportesBalanceados.pdb
+C:\Users\arauj\source\repos\SuportesBalanceados\SuportesBalanceados\obj\Debug\net7.0\SuportesBalanceados.csproj.AssemblyReference.cache
+C:\Users\arauj\source\repos\SuportesBalanceados\SuportesBalanceados\obj\Debug\net7.0\SuportesBalanceados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arauj\source\repos\SuportesBalanceados\SuportesBalanceados\obj\Debug\net7.0\SuportesBalanceados.AssemblyInfoInputs.cache
+C:\Users\arauj\source\repos\SuportesBalanceados\SuportesBalanceados\obj\Debug\net7.0\SuportesBalanceados.AssemblyInfo.cs
+C:\Users\arauj\source\repos\SuportesBalanceados\SuportesBalanceados\obj\Debug\net7.0\SuportesBalanceados.csproj.CoreCompileInputs.cache
+C:\Users\arauj\source\repos\SuportesBalanceados\SuportesBalanceados\obj\Debug\net7.0\SuportesBalanceados.dll
+C:\Users\arauj\source\repos\SuportesBalanceados\SuportesBalanceados\obj\Debug\net7.0\refint\SuportesBalanceados.dll
+C:\Users\arauj\source\repos\SuportesBalanceados\SuportesBalanceados\obj\Debug\net7.0\SuportesBalanceados.pdb
+C:\Users\arauj\source\repos\SuportesBalanceados\SuportesBalanceados\obj\Debug\net7.0\SuportesBalanceados.genruntimeconfig.cache
+C:\Users\arauj\source\repos\SuportesBalanceados\SuportesBalanceados\obj\Debug\net7.0\ref\SuportesBalanceados.dll
